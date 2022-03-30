@@ -67,18 +67,18 @@ function App() {
 
         <h2>Scoring</h2>
         <p>To score combinations of 5 dice select one of the 13 categories
-and write it on the scorecard. Once a box has been scored, it cannot be
+        and write it on the scorecard. Once a box has been scored, it cannot be
         scored again.</p>
 
         <p>Upper Section Scoring: If a player chooses to score in the upper section the score
-is the total of the specified die faces. Example: You roll three 2s, end your turn and score 6 points in the ‘2’ category.
+        is the total of the specified die faces. Example: You roll three 2s, end your turn and score 6 points in the ‘2’ category.
         Bonus: If the total of the Upper Scores is 63 or over, add a bonus of 50.</p>
 
         <p>Lower Section Scoring:
-Pair: 2 dice with the same faces. The score is the total of these two die faces.
-Two pairs: One pair, and another pair of dice with different faces from each other. The score is the total of these four die faces. Example: 6+6+5+5=22
-3 and 4 of a Kind: For 3 of a kind, 3 die faces must be the same; for 4 of a kind, 4 must be the same. The score is the total of all the 3 or 4 dice.
-Small and Large Straight: A straight is a sequence of consecutive die faces; a small straight is made up of die faces 1-2-3-4-5 and scores 15 points; a large straight is made up of die faces 2-3-4-5-6 and scores 20 points.
+        Pair: 2 dice with the same faces. The score is the total of these two die faces.
+        Two pairs: One pair, and another pair of dice with different faces from each other. The score is the total of these four die faces. Example: 6+6+5+5=22
+        3 and 4 of a Kind: For 3 of a kind, 3 die faces must be the same; for 4 of a kind, 4 must be the same. The score is the total of all the 3 or 4 dice.
+        Small and Large Straight: A straight is a sequence of consecutive die faces; a small straight is made up of die faces 1-2-3-4-5 and scores 15 points; a large straight is made up of die faces 2-3-4-5-6 and scores 20 points.
         Full House: A Full House as in poker is a combination of 3 of a kind and 2 of a kind. The score is the total of the die faces. Example: 6+6+6+5+5=28</p>
         
         <p>Yatzy: Yatzy is 5 of a kind and scores 50 points, but you can choose to score the roll in other categories instead. Example: You roll 6-6-6-6-6. You can choose to score this as a Yatzy (50), 4 of a kind (24) or in the Upper Section ‘6’ (30).
