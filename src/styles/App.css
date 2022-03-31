@@ -2,6 +2,14 @@
   
 }
 
+.header {
+  width: "100%";
+  heigth: "80px";
+  display: "flex";
+  justifyContent: "center";
+  background: "#e6f7ff";
+};
+
 .divider{
   width: 5px;
   height: auto;
